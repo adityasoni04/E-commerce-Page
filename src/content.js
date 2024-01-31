@@ -13,8 +13,8 @@ const productData = [
     productType: "openBackHeadphones",
     price: 2999,
     rating: 4,
-    timeLeft: 27,
-    totalSales: 7479
+    totalSales: 7479,
+    feature: "Over-Ear"
   },
   {
     id: 2,
@@ -23,8 +23,8 @@ const productData = [
     productType: "openBackHeadphones",
     price: 2599,
     rating: 3,
-    timeLeft: 14,
-    totalSales: 6527
+    totalSales: 6527,
+    feature: "On-Ear"
   },
   {
     id: 3,
@@ -33,8 +33,8 @@ const productData = [
     productType: "openBackHeadphones",
     price: 4999,
     rating: 5,
-    timeLeft: 2,
-    totalSales: 9625
+    totalSales: 9625,
+    feature: "Waterproof"
   },
   {
     id: 4,
@@ -43,8 +43,8 @@ const productData = [
     productType: "openBackHeadphones",
     price: 8999,
     rating: 5,
-    timeLeft: 19,
-    totalSales: 4568
+    totalSales: 4568,
+    feature: "Over-Ear"
   },
   {
     id: 5,
@@ -53,8 +53,8 @@ const productData = [
     productType: "openBackHeadphones",
     price: 1599,
     rating: 2,
-    timeLeft: 1,
-    totalSales: 9947
+    totalSales: 9947,
+    feature: "On-Ear"
   },
   {
     id: 6,
@@ -63,8 +63,8 @@ const productData = [
     productType: "openBackHeadphones",
     price: 1799,
     rating: 3,
-    timeLeft: 11,
-    totalSales: 634
+    totalSales: 634,
+    feature: "Over-Ear"
   },
 ];
 export default productData;

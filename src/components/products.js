@@ -22,7 +22,7 @@ export function Products(props) {
                                 <FaStar id={index + 1 } key={index} />
                             ))}
                         </div>
-                        <div className='productTime'>{props.timeLeft} days left</div>
+                        <div className='productFeature'>{props.feature} Headphones</div>
                     </div>
                 </div>
             </div>
